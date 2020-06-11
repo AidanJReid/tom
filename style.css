@@ -1,4 +1,23 @@
 body {
     margin: 0;
-    background: green;
+    background:whitesmoke;
+}
+
+h2, h3 {
+    color: orange;
+    font-family: 'Rye', cursive;
+}
+
+#guitar-image {
+    background-image: url("assets/guit.jpg");
+    display: flex;
+    height: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+#hero-text {
+    color: white;
 }
