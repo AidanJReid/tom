@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background:whitesmoke;
+    background:antiquewhite;
     overflow-x: hidden;
 }
 
@@ -13,7 +13,7 @@ h2, h3 {
     background-image: url("assets/guit.jpg");
     background-color: #cccccc;
     display: flex;
-    height: 250px;
+    height: 280px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -30,4 +30,8 @@ h2, h3 {
 
 .table-text {
     font-size: 12px;
+}
+
+.text-uppercase {
+    color: white;
 }
