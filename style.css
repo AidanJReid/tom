@@ -10,15 +10,23 @@ h2, h3 {
 
 #guitar-image {
     background-image: url("assets/guit.jpg");
+    background-color: #cccccc;
     display: flex;
     height: 200px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-    opacity: 0.5;
 }
 
 #hero-text {
     color: white;
+}
+
+#teeny {
+    font-size: 8px;
+}
+
+.table-text {
+    font-size: 12px;
 }
