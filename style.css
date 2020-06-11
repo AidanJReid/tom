@@ -1,6 +1,7 @@
 body {
     margin: 0;
     background:whitesmoke;
+    overflow-x: hidden;
 }
 
 h2, h3 {
@@ -12,7 +13,7 @@ h2, h3 {
     background-image: url("assets/guit.jpg");
     background-color: #cccccc;
     display: flex;
-    height: 200px;
+    height: 250px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
